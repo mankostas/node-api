@@ -21,7 +21,7 @@ const port = process.env.PORT || 3000;
 process.env.TZ = "Europe/Athens";
 
 app.get('/' , (req,res) => {
-  res.send('hey geeks!')
+  res.send('Server is running')
 })
 
 db.initialize();
