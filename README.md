@@ -17,8 +17,14 @@ Node API is a simple example project demonstrating how to build a RESTful API us
    - git clone https://github.com/mankostas/node-api.git
 
 2. Install the dependencies:
+
    - cd node-api
    - npm install
+
+3. For the Database I used XAMMP setup.
+   - Create the Required Database
+   - Import the SQL file "Test_db.sql" in the created Database
+   - In the folder "src/includes/" in the file "db.ts" change the "username", "password", "database" to the one corresponding to your setup and Database that you created in the previous step.
 
 ## Usage
 
