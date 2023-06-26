@@ -28,10 +28,12 @@ Node API is a simple example project demonstrating how to build a RESTful API us
 ## Endpoints
 
 4. The API provides the following endpoints:
-   GET /api/V1/events: Retrieve a list of Events.
-   GET /api/V1/events/:id: Retrieve a specific Event by ID.
-   POST /api/V1/events/: Create a new Event.
-   PUT /api/V1/events/:id: Update an existing Event by ID.
+
+   - GET /api/V1/events: Retrieve a list of Events.
+   - GET /api/V1/events/:id: Retrieve a specific Event by ID.
+   - POST /api/V1/events/: Create a new Event.
+   - PUT /api/V1/events/:id: Update an existing Event by ID.
+
    Make sure to replace http://localhost:3000 with the appropriate URL if you're deploying the API to a different environment.
 
 ## Contributing
