@@ -25,6 +25,9 @@ Node API is a simple example project demonstrating how to build a RESTful API us
    npm start
    The API will be available at http://localhost:3000
 
+   There is a Node Api Test.postman_collection in the Source code.
+   Use it for faster setup of Postman in order to test the API
+
 ## Endpoints
 
 4. The API provides the following endpoints:
