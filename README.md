@@ -13,17 +13,19 @@ Node API is a simple example project demonstrating how to build a RESTful API us
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/mankostas/node-api.git
+
+   - git clone https://github.com/mankostas/node-api.git
 
 2. Install the dependencies:
-   cd node-api
-   npm install
+   - cd node-api
+   - npm install
 
 ## Usage
 
 3. Start the server:
-   npm start
-   The API will be available at http://localhost:3000
+
+   - npm start
+   - The API will be available at http://localhost:3000
 
    There is a Node Api Test.postman_collection in the Source code.
    Use it for faster setup of Postman in order to test the API
